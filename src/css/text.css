@@ -1,0 +1,50 @@
+div.itens{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+    border-radius: 10px;
+    margin: 0;
+    position: relative;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 80%;
+    height: 105px;
+}
+
+h1.home{
+    position: relative;
+  }
+
+h1.lista{
+    position: absolute;
+    left: 5%;
+    top: 5%;
+}
+
+h1.cad{
+    color: #DA0D1E;
+    font-family: Verdana, sans-serif;
+    text-align: left;
+    position: relative;
+    left: 5%;
+  }
+
+h3.lista{
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    color: #6cb247;
+}
+
+p.lista{
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+}
+
+p.delete{
+    text-align: left;
+    color:gray;
+    position: relative;
+    left: 5%;
+}
